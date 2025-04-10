@@ -2,3 +2,5 @@ source https://api.nuget.org/v3/index.json
 
 nuget Newtonsoft.Json
 nuget Colorful.Console
+nuget YamlDotNet
+nuget System.CommandLine
