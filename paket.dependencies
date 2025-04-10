@@ -4,3 +4,4 @@ nuget Newtonsoft.Json
 nuget Colorful.Console
 nuget YamlDotNet
 nuget System.CommandLine
+nuget Rx-Main !~> 2.0
